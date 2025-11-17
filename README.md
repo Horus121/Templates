@@ -1,0 +1,1 @@
+This is a repository of Eve Online Planetary Interaction templates.  If you want to use a template, navigate the folders to the PI you want to make, copy the text in the file, then import from clipboard onto your PI planet.  A command center must already be on the planet.
